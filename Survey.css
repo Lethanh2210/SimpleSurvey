@@ -1,0 +1,18 @@
+/*table.a, td.a,th.a {*/
+/*    border: 1px solid gray;*/
+/*    border-collapse: collapse;*/
+/*}*/
+.a th,.a td, .a {
+    border: 1px solid gray;
+    border-collapse: collapse;
+}
+.a td{
+    align-items: center;
+}
+/*th.a, td.a {*/
+/*    border-collapse: collapse;*/
+/*    border: 1px solid gray;*/
+
+/*}*/
+
+
